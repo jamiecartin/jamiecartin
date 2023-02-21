@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**jamiecartin/jamiecartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jamiecartin/jamiecartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jamie.cartin@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning and go out of my way to practice different languages to keep my mind sharp.
--->
+
