@@ -11,6 +11,7 @@
 - 📫 How to reach me: jamie.cartin@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning and go out of my way to practice different languages to keep my mind sharp.
+- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jamiecartin)
 
