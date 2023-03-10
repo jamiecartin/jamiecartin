@@ -12,5 +12,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning and go out of my way to practice different languages to keep my mind sharp.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiecartin&theme=blue-green)
 
