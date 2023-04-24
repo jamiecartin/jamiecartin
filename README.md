@@ -9,5 +9,5 @@
 - 📫 How to reach me: jamie.cartin@icloud.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiecartin&show_icons=true&theme=transparent)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jamiecartin)
 
