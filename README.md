@@ -8,6 +8,3 @@
 - 🔭 I’m currently privately working on an app to help non-verbal children communicate.
 - 📫 How to reach me: jamie.cartin@icloud.com
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jamiecartin)
-
