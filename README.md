@@ -5,7 +5,7 @@
 
 
 - 😄 I tend to upload various projects I've worked on of all shapes and sizes.
-- 🔭 I’m currently privately working on an app to help non-verbal children communicate.
+- 🔭 I specialize in Salesforce, Java, and iOS development, but I have experience in a wide range of languages and technologies.
 - 📫 How to reach me: jamie.cartin@icloud.com
 
 
