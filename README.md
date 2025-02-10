@@ -54,8 +54,8 @@ Here are some of the projects I'm proud of:
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me:
 
 - **GitHub**: [JamieCartin](https://github.com/JamieCartin)
-- **Email**: [jamiecartin@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/jamie-cartin/]
+- **Email**: jamiecartin@gmail.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jamie-cartin/)
 
 ## 🎉 Fun Fact
 
