@@ -1,8 +1,8 @@
-# Hi there, I'm Jamie Cartin 👋
+# Hi there, I'm Jamie Cartin
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **Salesforce**, **Java**, and **iOS** application development. I also have a keen interest in **video game development**. My goal is to create innovative solutions that meet business needs and deliver exceptional user experiences.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Core Skills
 - **Salesforce Development**: Apex, Visualforce, Lightning Web Components (LWC), Salesforce APIs
@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Sales
 - **Cloud Platforms**: Salesforce Cloud, AWS, Heroku
 - **IDEs**: IntelliJ IDEA, Xcode, Visual Studio Code
 
-## � About Me
+## About Me
 
 I'm a detail-oriented developer with a strong focus on delivering high-quality software solutions. Whether it's building enterprise applications or creating immersive video games, I enjoy tackling challenges and turning ideas into reality. I believe in continuous learning and staying updated with the latest technologies to improve my craft.
 
-## 🎮 Video Game Development
+## Video Game Development
 
 I have a deep passion for video game development and enjoy working on both 2D and 3D games. Some of the tools and technologies I use include:
 - **Unity**: For game design and development
@@ -29,7 +29,7 @@ I have a deep passion for video game development and enjoy working on both 2D an
 - **Blender**: For 3D modeling and animation
 - **C#**: For scripting in Unity
 
-## 📂 Featured Projects
+## Featured Projects
 
 Here are some of the projects I'm proud of:
 
@@ -49,7 +49,7 @@ Here are some of the projects I'm proud of:
 - **2D Platformer Game**: A Unity-based game with custom mechanics and levels.
 - **3D Adventure Game**: An Unreal Engine project with immersive environments.
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me:
 
@@ -57,7 +57,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - **Email**: jamiecartin@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/jamie-cartin/)
 
-## 🎉 Fun Fact
+## Fun Fact
 
 When I'm not coding, you can find me playing video games, exploring new technologies, snuggling with my dogs, Slinky and Vienna, or working on my next game development project!
 
