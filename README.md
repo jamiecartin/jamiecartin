@@ -1,4 +1,4 @@
-# Hi there, I'm Jamie Cartin
+# Hi there, I'm Jamie Cartin!
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **Salesforce**, **Java**, and **iOS** application development. I also have a keen interest in **video game development**. My goal is to create innovative solutions that meet business needs and deliver exceptional user experiences.
 
