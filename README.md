@@ -63,4 +63,4 @@ When I'm not coding, you can find me playing video games, exploring new technolo
 
 ---
 
-⭐️ Thanks for visiting my profile! ⭐️
+Thanks for visiting my profile!
